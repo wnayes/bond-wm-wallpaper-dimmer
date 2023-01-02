@@ -13,6 +13,7 @@
   ],
   "author": "Will Nayes",
   "license": "MIT",
+  "repository": "https://github.com/wnayes/electron-wm-wallpaper-dimmer",
   "devDependencies": {
     "@types/react": "^18.0.26",
     "esbuild": "^0.16.12",
