@@ -1,8 +1,12 @@
 {
   "name": "@wnayes/electron-wm-wallpaper-dimmer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wallpaper plugin for electron-wm that dims the wallpaper in the evening",
   "main": "./dist/index.js",
+  "files": [
+    "index.tsx",
+    "dist/*"
+  ],
   "scripts": {
     "build": "esbuild ./index.tsx --bundle --packages=external --sourcemap --format=cjs --outfile=./dist/index.js"
   },
