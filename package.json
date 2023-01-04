@@ -1,6 +1,6 @@
 {
   "name": "@wnayes/electron-wm-wallpaper-dimmer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wallpaper plugin for electron-wm that dims the wallpaper in the evening",
   "main": "./dist/index.js",
   "files": [
