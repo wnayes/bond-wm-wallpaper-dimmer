@@ -29,6 +29,7 @@ export default function Dimmer() {
         width: "100%",
         backgroundColor: "black",
         opacity: 0,
+        pointerEvents: "none",
       }}
     />
   );
