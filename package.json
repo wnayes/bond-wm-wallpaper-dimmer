@@ -1,7 +1,7 @@
 {
-  "name": "@wnayes/electron-wm-wallpaper-dimmer",
+  "name": "@wnayes/bond-wm-wallpaper-dimmer",
   "version": "1.0.2",
-  "description": "Wallpaper plugin for electron-wm that dims the wallpaper in the evening",
+  "description": "Wallpaper plugin for bond-wm that dims the wallpaper in the evening",
   "main": "./dist/index.mjs",
   "type": "module",
   "files": [
@@ -14,11 +14,11 @@
   "keywords": [
     "Wallpaper",
     "plugin",
-    "electron-wm"
+    "bond-wm"
   ],
   "author": "Will Nayes",
   "license": "MIT",
-  "repository": "https://github.com/wnayes/electron-wm-wallpaper-dimmer",
+  "repository": "https://github.com/wnayes/bond-wm-wallpaper-dimmer",
   "devDependencies": {
     "@types/react": "^18.2.46",
     "esbuild": "^0.19.11",

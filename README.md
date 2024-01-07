@@ -1,6 +1,6 @@
-# electron-wm-wallpaper-dimmer
+# bond-wm-wallpaper-dimmer
 
-A simple wallpaper plugin for the [electron-wm window manager](https://github.com/wnayes/electron-wm).
+A simple wallpaper plugin for the [bond-wm window manager](https://github.com/wnayes/bond-wm).
 
 This plugin is meant to be used on top of others. It puts a semi-transparent layer over the wallpaper display,
 which darkens in the evening.
@@ -12,7 +12,7 @@ which darkens in the evening.
 
 ## Usage
 
-Use `@wnayes/electron-wm-wallpaper-dimmer` as a wallpaper plugin for electron-wm.
+Use `@wnayes/bond-wm-wallpaper-dimmer` as a wallpaper plugin for bond-wm.
 
 ### Configuration
 
