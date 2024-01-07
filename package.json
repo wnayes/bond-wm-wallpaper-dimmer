@@ -1,6 +1,6 @@
 {
   "name": "@wnayes/bond-wm-wallpaper-dimmer",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Wallpaper plugin for bond-wm that dims the wallpaper in the evening",
   "main": "./dist/index.mjs",
   "type": "module",
