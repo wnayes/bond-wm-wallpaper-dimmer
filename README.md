@@ -12,7 +12,18 @@ which darkens in the evening.
 
 ## Usage
 
-Use `@wnayes/bond-wm-wallpaper-dimmer` as a wallpaper plugin for bond-wm.
+Import from `@wnayes/bond-wm-wallpaper-dimmer` and render the dimmer component in your desktop's work area.
+
+```tsx
+import Dimmer from "@wnayes/bond-wm-wallpaper-dimmer";
+
+<Desktop>
+  <WorkArea>
+    <Wallpaper />
+    <Dimmer /> {/* Put above your desktop wallpaper! */}
+  </WorkArea>
+</Desktop>;
+```
 
 ### Configuration
 
